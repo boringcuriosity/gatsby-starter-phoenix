@@ -30,6 +30,10 @@ module.exports = {
         name: `Photography`,
         link: `/photography`,
       },
+      {
+        name: `Docs`,
+        link: `https://instagram.com/boringcuriosity`,
+      },
     ],
     socialLinks: [
       {
