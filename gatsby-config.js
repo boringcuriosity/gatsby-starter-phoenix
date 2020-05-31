@@ -32,7 +32,7 @@ module.exports = {
       },
       {
         name: `Docs`,
-        link: `https://instagram.com/boringcuriosity`,
+        url: `https://instagram.com/boringcuriosity`,
       },
     ],
     socialLinks: [
